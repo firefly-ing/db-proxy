@@ -2,7 +2,7 @@
 <Configuration status="INFO" monitorInterval="10">
     <properties>
         <!--设置为项目下在硬盘上输出的目录-->
-        <property name="logPath">logs/tiops-cat-route/</property>
+        <property name="logPath">logs/db-proxy/</property>
     </properties>
 
     <Appenders>
